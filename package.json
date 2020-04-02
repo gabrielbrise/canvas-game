@@ -1,0 +1,15 @@
+{
+  "name": "canvas-game",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Brise",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack  --watch=true"
+  },
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}

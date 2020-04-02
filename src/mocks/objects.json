@@ -1,0 +1,44 @@
+{
+  "objects": [
+    {
+      "name": "MainChar",
+      "width": 30,
+      "height": 30,
+      "color": "red",
+      "startX": 10,
+      "startY": 120,
+      "speed": 3,
+      "target": "mouse"
+    },
+    {
+      "name": "Enemy1",
+      "width": 20,
+      "height": 20,
+      "color": "blue",
+      "startX": 300,
+      "startY": 300,
+      "speed": 1,
+      "target": "MainChar"
+    },
+    {
+      "name": "Enemy2",
+      "width": 20,
+      "height": 20,
+      "color": "blue",
+      "startX": 400,
+      "startY": 400,
+      "speed": 1,
+      "target": "MainChar"
+    },
+    {
+      "name": "Enemy3",
+      "width": 20,
+      "height": 20,
+      "color": "blue",
+      "startX": 200,
+      "startY": 200,
+      "speed": 1,
+      "target": "MainChar"
+    }
+  ]
+}
